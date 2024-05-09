@@ -1,0 +1,6 @@
+* Probability and Statistics
+This is just a way for me to document interesting things I learn as I work through the book "Probability & Statistics for Engineers & Scientists 9th Edition" by Walpole, Myers, Myers, and Ye.
+
+I will be sharing (what I think are) fun solutions and adding my own spin to some of the example problems by adding graphs, doing generalizations, and other stuff the exercise might not call for.
+
+** Chapter 3
