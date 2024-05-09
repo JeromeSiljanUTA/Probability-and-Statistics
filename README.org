@@ -4,3 +4,4 @@ This is just a way for me to document interesting things I learn as I work throu
 I will be sharing (what I think are) fun solutions and adding my own spin to some of the example problems by adding graphs, doing generalizations, and other stuff the exercise might not call for.
 
 ** Chapter 3
++ [[file:chapter_03/exercise_03_23.pdf][Exercise 3.23: Cumulative Distribution Function and Combinatorics]]
