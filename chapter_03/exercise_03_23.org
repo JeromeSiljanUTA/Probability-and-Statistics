@@ -15,7 +15,7 @@ Find the probability distribution of the random variable $W$ assuming that the c
 
 At first, I thought I needed to find a function that represented the probability density function, here are my attempts in order:
 
-Note: To make initial calculations easier, I let $x = # \text{heads}$ and tried to create the density function. 
+Note: To make initial calculations easier, I let $x = \text{number of heads}$ and tried to create the density function. 
 
 1. $(\frac{2}{3})^x * (\frac{1}{3})^{3-x}$
    This is fine only when there is one outcome that lines up with the value of x that I have, eg. $x=3$,$x=0$.
