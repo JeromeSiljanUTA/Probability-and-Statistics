@@ -79,4 +79,7 @@ plt.show()
 ** Part 3: Results
 The Monte Carlo simulation performed just as expected.
 
-[[file:probability_distribution.png]]
+[[file:exercise_03_25_probability_distribution.png][This link]] is recommended for further examination.
+
+#+attr_latex: :width 400px
+[[file:exercise_03_25_probability_distribution.png]]
