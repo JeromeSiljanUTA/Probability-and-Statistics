@@ -5,3 +5,4 @@ I will be sharing (what I think are) fun solutions and adding my own spin to som
 
 ** Chapter 3
 + [[file:chapter_03/exercise_03_23.pdf][Exercise 3.23: Cumulative Distribution Function and Combinatorics]]
++ [[file:chapter_03/exercise_03_25.pdf][Exercise 3.25: Probability Distribution with Monte Carlo Simulation]]

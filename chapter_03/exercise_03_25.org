@@ -79,4 +79,4 @@ plt.show()
 ** Part 3: Results
 The Monte Carlo simulation performed just as expected.
 
-[[file:probability_distribution.png][Probability Distribution]]
+[[file:probability_distribution.png]]
